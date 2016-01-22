@@ -1,5 +1,5 @@
 <?php 
-    $connect_str= "mysql:host=localhost;dbname=gentella";
+    $connect_str= "mysql:host=localhost;dbname=mooc";
     $connect_user= 'root';
     $connect_pass= '';
     try
