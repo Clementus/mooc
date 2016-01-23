@@ -1,6 +1,6 @@
 <snippet>
   <content>
-<![CDATA[
+
 # Projet
 MOOC
 ## Installation
@@ -27,7 +27,7 @@ TODO: Write credits
 Use the backend aspect of it (pour la nav bar)
 http://stackoverflow.com/questions/22675539/do-i-have-to-duplicate-the-navbar-code-on-every-page-with-bootstrap
 
-]]>
+
 </content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
