@@ -13,6 +13,7 @@ TODO: Write usage instructions
 index6.html 	 OK
 inscription.html OK
 inscription.php Ok
+indexGraph.html Aperçu de la page avec les chapitres
 
 ## Contributing
 1. Fork it!
